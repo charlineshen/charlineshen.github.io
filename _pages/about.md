@@ -11,4 +11,4 @@ Hi! I am Tingwei Shen. I also go by Charline. I'm a fourth year undergraduate st
 
 I'm interested in areas around computer vision and machine learning, especially scientific machine learning. Particularly, I hope to explore the interplay between physics and machine learning. Here is my [CV](https://drive.google.com/file/d/1HbRoCy-eJX0xKG-89V4NrIC1EERlU2Yx/view?usp=sharing).
 
-Outside of academics, I love cooking, baking, and traveling. I pay close attention to woman in STEM and take my mission to empower woman in technology.
+Outside of academics, I love cooking, baking, and traveling. I also pay close attention to woman in STEM and take my mission to empower woman in technology.
