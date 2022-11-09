@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Personal Projects
 ## Neural Networks
 _04/2022_
 

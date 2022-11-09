@@ -6,7 +6,7 @@ author_profile: true
 ---
 <meta name="format-detection" content="telephone=no">
 
-## Academic Tutor | Data C140(Probability of Data Science)
+## Academic Tutor | Data C140 (Probability of Data Science)
 _01/2021 - 05/2021_
 
 Introduction to probability, emphasizing the combined use of mathematics and programming
@@ -15,7 +15,7 @@ Introduction to probability, emphasizing the combined use of mathematics and pro
 - Taught tutoring sessions, answered questions on piazza, graded assignments, and offered office hours
 
 
-## Academic Intern | CS 61A(Structure and Interpretation of Computer Programs) 
+## Academic Intern | CS 61A (Structure and Interpretation of Computer Programs) 
 _01/2020 - 05/2020_
 
 Entry-level computer programming course
