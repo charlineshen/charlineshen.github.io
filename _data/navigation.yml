@@ -3,6 +3,9 @@ main:
   - title: "Researches"
     url: /researches/
 
+  - title: "Papers in Prep"
+  url: /papers_in_prep/
+
   - title: "Industry Experience"
     url: /industry_experience/    
 

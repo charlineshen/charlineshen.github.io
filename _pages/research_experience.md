@@ -5,14 +5,14 @@ permalink: /research_experience/
 author_profile: true
 ---
 <meta name="format-detection" content="telephone=no">
-## Undergraduate Researcher | Sky Computing Lab, UC Berkeley
-_08/2022 - Present_
+## Machine Learning & Computer Vision Researcher | Army Research Laboratory
+_09/2021 - Present_
 
-Research focus: Distributed systems and network; Mentor: [Dr. Joseph E. Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/)
+Research focus: Unsupervised Domain Adaptation, Synthetic-to-real Translation; Professor: [Suya You](https://ieeexplore.ieee.org/author/37273287300)
 
-- Implemented and optimized the data verification process of [Skyplane](https://skyplane.org/), the SOTA inter-and intra-cloud bulk data transfer software.
-
-- Managed Globus Endpoints to conduct large data transfer experiments to benchmark Skyplane against Globus.
+- Trained and evaluated different setups of a synthetic-to-real generative model that transforms the synthetic renderings into more realistic styles on general-purpose datasets conditioned with unlabeled real-world data
+- Used Tensorflow and Keras to implement a Generative Adversarial Network
+- Conducted extensive performance evaluations through FID and SSIM metrics and through downstream object detection/semantic segmentation tasks
 
 ## Undergraduate Researcher | ReDAS Lab, University of Houston
 _06/2021 - Present_

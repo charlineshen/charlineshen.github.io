@@ -240,7 +240,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: publications
+      type: papers in prep
     values:
       layout: talk
       author_profile: true
