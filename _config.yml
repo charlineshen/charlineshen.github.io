@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuting Liu"
+title                    : "Tingwei Shen"
 title_separator          : "-"
-name                     : &name "Xuting Liu"
-description              : &description "Undergrad at UC Berkeley"
-url                      : https://xutingl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tingwei(Charline) Shen"
+description              : &description "Undergrad at UC Berkeley, graduating in Fall 2023"
+url                      : https://charlineshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xutingl/xutingl.github.io"
+repository               : "charlineshen/charlineshen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,30 +78,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuting"
+  name             : "Tingwei(Charline) Shen"
   avatar           : "avatar_sm.jpeg"
-  bio              : "Distributed Systems and Computational Social Science"
+  bio              : "Interested in Scientific Machine Learning and Computer Vision"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QdQQSB4AAAAJ"
-  email            : "xutingl at berkeley dot edu"
+  googlescholar    : 
+  email            : "tingweishen at berkeley dot edu"
   researchgate     :  
-  uri              :
+  uri              : "https://medium.com/@tingweishen"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xutingl"
+  github           : "tingweishen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xutingliu/"
-  orcid            : "https://orcid.org/0000-0001-8017-6652"
+  linkedin         : "https://www.linkedin.com/in/tingwei-shen/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -222,7 +222,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: research_experience
+      type: researches
     values:
       layout: single
       author_profile: true
