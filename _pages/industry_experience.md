@@ -6,20 +6,21 @@ author_profile: true
 ---
 <meta name="format-detection" content="telephone=no">
 
-## SWE Intern | AWS Science
-_08/2022 - 10/2022_
+## Software Development Engineer Intern | Amazon
+_05/2022 - 08/2022_
 
-ML Infra Engineer
+Alexa Lab126 Whole Home Audio Pipeline Team
 
-- Worked with Applied Scientists to implement a template attention cell with a fused softmax that is used in internal GPT2 and T5 models.
+- Used C++ to implement TCP data transmission among a cluster of Amazon Echo devices
+- Built a prototype of the cluster playing Amazon Hi-Res music with no glitches while supporting seamless join and independent device dropout
+- Optimized data transmission pipeline by reducing 1/3 of the workloads
 
-- Developed monitoring protocols, tests, and benchmarks for internal model-training platform.
+## Software Development Engineer Intern | Microsoft
+_06/2021 - 08/2021_
 
-## SWE Intern | Amazon
-_08/2021 - 10/2021_
+Virtual Ads Team
 
-Full-Stack Engineer
-
-- Implemented a feature that allows customers to set recurring budgets on Amazon Business website from end to end.
-- Used React.JS to implement the website UI; Used Java, Spring, and DynamoDB for the back end; wrote 100%-
-coverage unit tests.
+- Wrote dockerfile and used docker to test video tools
+- Wrote project authorization access codes and tutorials in Go using Gin web framework and in Java using Spring
+- Used azure cosmos db and function app to setup database bindings and time triggers to make and query video database(written in C#)
+- Made an android app that decodes a gif to bitmap and shows each frame

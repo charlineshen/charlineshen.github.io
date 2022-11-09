@@ -231,7 +231,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: teaching
+      type: teaching_and_leaderships
     values:
       layout: single
       author_profile: true
