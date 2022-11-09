@@ -4,7 +4,7 @@ main:
     url: /researches/
 
   - title: "Papers in Prep"
-  url: /papers_in_prep/
+    url: /papers_in_prep/
 
   - title: "Industry Experience"
     url: /industry_experience/    
