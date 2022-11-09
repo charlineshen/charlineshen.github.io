@@ -173,7 +173,7 @@ kramdown:
 
 # Collections
 collections:
-  research_experience:
+  researches:
     output: true
     permalink: /:collection/:path/
   industry_experience:
