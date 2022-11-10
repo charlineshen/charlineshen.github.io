@@ -21,7 +21,7 @@ Research focus: Scientific Machine Learning(SciML), Surrogate Modeling; Professo
 
 - Explored the application of continuous-time echo state networks (CTESNs) for learning a surrogate to predict the time-domain solution of a dynamic power system for varying system parameters
 - Implemented non-linear projection CTESN using Julia and benchmark it against the linear projection CTESN
-- Implemented cross-validation based adaptive sampling and compare it with gradient-based and query-by-committee active sampling; benchmark their accuracy and computational costs against a simple space-filling approach
+- Implemented cross-validation based adaptive sampling and compare it with gradient-based and query-by-committee active sampling; benchmarked their accuracy and computational costs against a simple space-filling approach
 - Evaluated the performance on HPC for a dynamic power system application
 
 ## Undergraduate Researcher | Sutardja Center for Entrepreneurship and Technology

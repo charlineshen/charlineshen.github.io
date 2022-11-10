@@ -7,6 +7,7 @@ author_profile: true
 
 ## A Study on Improving Realism of Synthetic Data for Machine Learning
 _Keywords: Synthetic data, Domain gap, Generative adversarial learning, Synthetic-to-real translation_
+
 Synthetic-to-real data translation using generative adversarial learning has achieved significant success to improve synthetic data. Yet, there are limited studies focusing on deep evaluation and comparison of different adversarial training on general-purpose synthetic data for machine learning. This work aims to train and evaluate different setups of a synthetic-to-real generative model that transforms the synthetic renderings into more realistic styles on general-purpose datasets conditioned with unlabeled real-world data. Extensive performance evaluation and comparison have been conducted through qualitative and quantitative metrics, and a defined downstream perception task.
 
 ## Synthetic Image Refinement by Unsupervised Bidirectional Adversarial Learning
