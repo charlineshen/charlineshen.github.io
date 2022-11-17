@@ -28,5 +28,5 @@ Entry-level computer programming course
 _06/2020 - 08/2022_
 
 - One of the founding officers
-- Designed workshops and course curriculums including basic Python, data structures, probability theories, algorithms, and technical interview preparations and published them on [GitHub Pages](gwcberkeley.github.io) as a textbook for our education program
+- Designed workshops and course curriculums including basic Python, data structures, probability theories, algorithms, and technical interview preparations and published them on [GitHub Pages](https://gwcberkeley.github.io/) as a textbook for our education program
 - Produced marketing content and newsletters for social media
