@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tingwei(Charline) Shen"
   avatar           : "avatar_sm.jpg"
-  bio              : "Interested in Scientific Machine Learning and Computer Vision"
+  bio              : "Interested in computational physics and physics-based learning"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tingweishen"
+  github           : "charlineshen"
   google_plus      :
   keybase          :
   instagram        :
@@ -240,7 +240,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: papers in prep
+      type: publications
     values:
       layout: talk
       author_profile: true

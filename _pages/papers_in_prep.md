@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "Papers in Preparation"
+title: "Publications and Papers in Prep"
 permalink: /papers_in_prep/
 author_profile: true
 ---
 
-## A Study on Improving Realism of Synthetic Data for Machine Learning
+## [A Study on Improving Realism of Synthetic Data for Machine Learning](https://doi.org/10.1117/12.2664064)
 _Keywords: Synthetic data, Domain gap, Generative adversarial learning, Synthetic-to-real translation_
 
-Synthetic-to-real data translation using generative adversarial learning has achieved significant success to improve synthetic data. Yet, there are limited studies focusing on deep evaluation and comparison of different adversarial training on general-purpose synthetic data for machine learning. This work aims to train and evaluate different setups of a synthetic-to-real generative model that transforms the synthetic renderings into more realistic styles on general-purpose datasets conditioned with unlabeled real-world data. Extensive performance evaluation and comparison have been conducted through qualitative and quantitative metrics, and a defined downstream perception task.
+Synthetic-to-real data translation using generative adversarial learning has achieved significant success in improving synthetic data. Yet, limited studies focus on deep evaluation and comparison of adversarial training on general-purpose synthetic data for machine learning. This work aims to train and evaluate a synthetic-to-real generative model that transforms the synthetic renderings into more realistic styles on general-purpose datasets conditioned with unlabeled real-world data. Extensive performance evaluation and comparison have been conducted through qualitative and quantitative metrics and a defined downstream perception task.
 
-## Synthetic Image Refinement by Unsupervised Bidirectional Adversarial Learning
-_Keywords: Synthetic image refinement, Cycle generative adversarial network, Unsupervised learning_
+## [Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic-Structural Constraints](https://doi.org/10.1117/12.2663897)
+_Keywords: Synthetic images refinement, Contrastive learning, Image translation, Unsupervised learning, Synthetic to real translation
 
-This paper proposes an unsupervised generative learning approach to improve the realism of synthetic images. The new approach is a bidirectional mapping architecture consisting of two adversarial learning paths including the synthetic-to-real path and the real-to-synthetic path. To make the distribution of synthetic and real data closer, multiple loss functions including adversarial loss, consistency loss, and content-specific loss are employed in both paths. By learning the bidirectional mappings between two unpaired domains, the realism of the input synthetic images is significantly improved. Extensive performance evaluation and comparison are conducted through qualitative and quantitative metrics.
+Ensuring the realism of computer-generated synthetic images is crucial to deep neural network (DNN) training. Due to different semantic distributions between synthetic and real-world captured datasets, there exists semantic mismatch between synthetic and refined images, which in turn results in the semantic distortion. Recently, contrastive learning (CL) has been successfully used to pull correlated patches together and push uncorrelated ones apart. In this work, we exploit semantic and structural consistency between synthetic and refined images and adopt CL to reduce the semantic distortion. Besides, we incorporate hard negative mining to improve the performance furthermore. We compare the performance of our method with several other benchmarking methods using qualitative and quantitative measures and show that our method offers the state-of-the-art performance.
 
 ## Active Sampling Strategies for Power System Surrogates
 _Keywords: Data-driven modeling techniques, active learning, machine learning, power system dynamics_

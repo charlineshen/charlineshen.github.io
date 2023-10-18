@@ -6,7 +6,7 @@ author_profile: true
 ---
 <meta name="format-detection" content="telephone=no">
 ## Machine Learning & Computer Vision Researcher | Army Research Laboratory
-_09/2021 - Present_
+_09/2021 - 05/2023_
 
 Research focus: Unsupervised Domain Adaptation, Synthetic-to-real Translation; Professor: [Suya You](https://ieeexplore.ieee.org/author/37273287300)
 
@@ -15,7 +15,7 @@ Research focus: Unsupervised Domain Adaptation, Synthetic-to-real Translation; P
 - Conducted extensive performance evaluations through FID and SSIM metrics and through downstream object detection/semantic segmentation tasks
 
 ## Undergraduate Researcher | Berkeley Lab
-_09/2021 - Present_
+_09/2021 - 12/2022_
 
 Research focus: Scientific Machine Learning(SciML), Surrogate Modeling; Professor: [Duncan Callaway](https://www2.eecs.berkeley.edu/Faculty/Homepages/dcal.html)
 

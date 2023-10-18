@@ -7,6 +7,13 @@ author_profile: true
 <meta name="format-detection" content="telephone=no">
 
 ## Software Development Engineer Intern | Amazon
+_06/2023 - 09/2023_
+
+Just Walk Out (formerly Amazon Go)
+
+- Used Typescript, React, and CSS to build a self-service website from scratch; supported 1000+ internal users
+- Project goal is confidential
+
 _05/2022 - 08/2022_
 
 Alexa Lab126 Whole Home Audio Pipeline Team
