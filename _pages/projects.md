@@ -19,10 +19,21 @@ _12/2022_
 Used Jax to implement and reproduce the key concepts and
 frameworks of the paper [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125).
 
+
+## [Constrain Cosmological Parameters using Supernovae](https://github.com/charlineshen/Constraining-Cosmological-Parameters-using-Supernovae)
+_04/2023_ 
+Used supernovae data to fit equations to constrain cosmological parameters.
+
+
 ## Object Recognition
 _04/2022_
 
 Used Pytorch to train a CNN Network on CIFAR-10 with data augmentation, regularization, dropout, and weight initialization; top 10% on Kaggle competition
+
+## Pintos Operating System 
+_2021 fall_
+
+Built a Pintos operating system that has user processes, multi-thread managements, and file systems in C language.
 
 ## Pac Man
 _04/2021_
