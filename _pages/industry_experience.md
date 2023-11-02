@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Industry Experience"
+title: "Software Engineering Experience"
 permalink: /industry_experience/
 author_profile: true
 ---
@@ -11,16 +11,16 @@ _06/2023 - 09/2023_
 
 Just Walk Out (formerly Amazon Go)
 
-- Used Typescript, React, and CSS to build a self-service website from scratch; supported 1000+ internal users
-- Project goal is confidential
+- Used Typescript, React, and CSS with Meridian design system to build a self-service website with confidential content from scratch
+- Supported 1000+ internal users to dynamically read, write, and configure properties of a tier 1 web application’s deployment in runtime
 
 _05/2022 - 08/2022_
 
 Alexa Lab126 Whole Home Audio Pipeline Team
 
-- Used C++ to implement TCP data transmission among a cluster of Amazon Echo devices
-- Built a prototype of the cluster playing Amazon Hi-Res music with no glitches while supporting seamless join and independent device dropout
-- Optimized data transmission pipeline by reducing 1/3 of the workloads
+- Implemented TCP data transmission among a cluster of Amazon Echo devices with C++ and reduced 1/3 workloads of the pipeline
+- Built a prototype of the cluster playing Amazon Hi-Res music with no glitches while supporting seamless join and independent dropout
+- The feature I implemented were deployed along the release of upgraded Alexa Studio by the end of 2022, with 50,000+ users worldwide
 
 ## Software Development Engineer Intern | Microsoft
 _06/2021 - 08/2021_

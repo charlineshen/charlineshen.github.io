@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Researches"
-    url: /researches/
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /papers_in_prep/
 
-  - title: "Industry Experience"
+  - title: "Software Engineering Experience"
     url: /industry_experience/    
 
   - title: "Teaching & Leaderships"
